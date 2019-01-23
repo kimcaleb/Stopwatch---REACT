@@ -37,3 +37,8 @@ main {
   align-items: center;
   justify-content: center;
 }
+
+.display {
+
+  height: 80px;
+}
